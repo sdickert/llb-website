@@ -1,0 +1,1 @@
+define("@widget/POPUP/popup1-dd74943d.js",["exports"],(function(e){"use strict";e.Component=null,e.component="@widget/POPUP/popup1",e.default=null,e.hooks="@widget/POPUP/hooks",e.id="popup1",e.type="POPUP",Object.defineProperty(e,"__esModule",{value:!0})})),"undefined"!=typeof window&&(window.global=window);
